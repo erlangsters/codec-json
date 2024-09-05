@@ -10,6 +10,6 @@
     {modules, [
         codec_json
     ]},
-    {licenses, ["Apache-2.0"]},
+    {licenses, ["MIT"]},
     {links, []}
 ]}.
