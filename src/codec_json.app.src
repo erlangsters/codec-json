@@ -7,7 +7,9 @@
         stdlib
     ]},
     {env, []},
-    {modules, []},
+    {modules, [
+        codec_json
+    ]},
     {licenses, ["Apache-2.0"]},
     {links, []}
 ]}.
