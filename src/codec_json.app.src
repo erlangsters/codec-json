@@ -1,5 +1,5 @@
 {application, codec_json, [
-    {description, "An OTP library"},
+    {description, "JSON encoder/decoder for Erlang."},
     {vsn, "0.1.0"},
     {registered, []},
     {applications, [
