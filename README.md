@@ -1,5 +1,11 @@
 # JSON encoder/decoder
 
+![Supported Erlang/OTP Versions](https://img.shields.io/badge/erlang%2Fotp-27-%23a90432)
+![Current Version](https://img.shields.io/badge/latest_version-0.1.0-%23354052)
+![License](https://img.shields.io/github/license/erlangsters/codec-json)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/erlangsters/codec-json/workflow.yml)](https://github.com/erlangsters/codec-json/actions/workflows/workflow.yml)
+[![Documentation Link](https://img.shields.io/badge/documentation-here-yellow)](http://erlangsters.github.io/codec-json/)
+
 A clean JSON encoder/decoder for Erlang, meant to be unambiguous, not fast.
 
 ```erlang
