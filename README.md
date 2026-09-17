@@ -2,7 +2,7 @@
 
 [![Erlangsters Repository](https://img.shields.io/badge/erlangsters-codec--json-%23a90432)](https://github.com/erlangsters/codec-json)
 ![Supported Erlang/OTP Versions](https://img.shields.io/badge/erlang%2Fotp-27%7C28%7C29-%23a90432)
-![Current Version](https://img.shields.io/badge/version-0.1.0-%23354052)
+![Current Version](https://img.shields.io/badge/version-0.0.1-%23354052)
 ![License](https://img.shields.io/github/license/erlangsters/codec-json)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/erlangsters/codec-json/build.yml)](https://github.com/erlangsters/codec-json/actions/workflows/build.yml)
 [![Documentation Link](https://img.shields.io/badge/documentation-available-yellow)](http://erlangsters.github.io/codec-json/)
@@ -58,6 +58,6 @@ To use `codec-json` in a `rebar3` project, add it to your `rebar.config`.
 
 ```erlang
 {deps, [
-  {codec_json, {git, "https://github.com/erlangsters/codec-json.git", {tag, "0.1.0"}}}
+  {codec_json, {git, "https://github.com/erlangsters/codec-json.git", {tag, "0.0.1"}}}
 ]}.
 ```

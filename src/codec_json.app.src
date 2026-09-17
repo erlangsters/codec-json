@@ -1,6 +1,6 @@
 {application, codec_json, [
   {description, "JSON encoder/decoder for the BEAM."},
-  {vsn, "0.1.0"},
+  {vsn, "0.0.1"},
   {registered, []},
   {applications, [
     kernel,
