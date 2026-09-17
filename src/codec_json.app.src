@@ -1,15 +1,17 @@
 {application, codec_json, [
-    {description, "JSON encoder/decoder for Erlang."},
-    {vsn, "0.1.0"},
-    {registered, []},
-    {applications, [
-        kernel,
-        stdlib
-    ]},
-    {env, []},
-    {modules, [
-        codec_json
-    ]},
-    {licenses, ["MIT"]},
-    {links, []}
+  {description, "JSON encoder/decoder for the BEAM."},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications, [
+    kernel,
+    stdlib
+  ]},
+  {env, []},
+  {modules, [
+    codec_json
+  ]},
+  {licenses, ["MIT"]},
+  {links, [
+    {"GitHub", "https://github.com/erlangsters/codec-json"}
+  ]}
 ]}.
